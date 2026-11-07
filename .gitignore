@@ -1,0 +1,13 @@
+# OS & Environment
+.DS_Store
+Thumbs.db
+desktop.ini
+*.log
+
+# Editor & IDE
+.vscode/
+.idea/
+
+# Archives & Temporary files
+scratch/
+*.zip.zip
